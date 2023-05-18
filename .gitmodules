@@ -1,6 +1,3 @@
 [submodule "peregrine-aacs"]
 	path = peregrine-aacs
 	url = https://github.com/Diamond42474/peregrine-aacs
-[submodule "peregrine-comms"]
-	path = peregrine-comms
-	url = https://github.com/Diamond42474/peregrine-comms
